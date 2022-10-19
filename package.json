@@ -1,0 +1,24 @@
+{
+  "name": "nomad-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisooround/nomad-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisooround/nomad-react/issues"
+  },
+  "homepage": "https://github.com/jisooround/nomad-react#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
